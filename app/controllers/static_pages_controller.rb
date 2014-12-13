@@ -14,4 +14,6 @@ class StaticPagesController < ApplicationController
   def find
   end
 
+  def login
+  end
 end
